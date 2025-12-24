@@ -51,7 +51,8 @@ This project was built to strengthen **core front-end fundamentals**:
 ---
 ## 👨‍💻 Author
 
-Roshan
+**Roshan Tomar**
+
 Learning front-end development by building real, interaction-heavy projects.
 
 ## ⭐ Feedback
